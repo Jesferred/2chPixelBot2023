@@ -8,8 +8,8 @@
 // @match        https://pixel.w84.vkforms.ru/build/*
 // @connect      github.com
 // @connect      raw.githubusercontent.com
-// @updateURL    https://github.com/JesferMonkaS/newnewpixelbot/raw/main/distLoader.user.js
-// @downloadURL  https://github.com/JesferMonkaS/newnewpixelbot/raw/main/distLoader.user.js
+// @updateURL    https://github.com/JesferMonkaS/2chPixelBot2023/raw/main/distLoader.user.js
+// @downloadURL  https://github.com/JesferMonkaS/2chPixelBot2023/raw/main/distLoader.user.js
 // @grant        GM_xmlhttpRequest
 // @connect      127.0.0.1
 // ==/UserScript==
