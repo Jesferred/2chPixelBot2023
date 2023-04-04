@@ -19,7 +19,7 @@
 **2)** Установить расширение для браузера ([*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
 <br />
 <br />
-**4)** Установить [*скрипт*](https://github.com/JesferMonkaS/2chPixelBot2023/blob/main/Pixelbattle%20Placer%2023.user.js)
+**4)** Установить [*скрипт*](https://github.com/JesferMonkaS/2chPixelBot2023/blob/main/distLoader.user.js)
 <br />
 <br />
 **5)** Нажать на **адблок**
@@ -60,7 +60,7 @@ https://*.vk-apps.com/static/js/main*
 **2)** Установить расширение для браузера [*TamperMonkey*](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 <br />
 <br />
-**3)** Установить этот [*скрипт*](https://github.com/JesferMonkaS/2chPixelBot2023/blob/main/Pixelbattle%20Placer%2023.user.js)
+**3)** Установить этот [*скрипт*](https://github.com/JesferMonkaS/2chPixelBot2023/blob/main/distLoader.user.js)
 <br />
 <br />
 **4)** Установить [*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru)
